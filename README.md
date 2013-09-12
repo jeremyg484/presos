@@ -28,4 +28,4 @@ rebuilds each deck as you reload it.
 ## Static Website
 
 The decks are all in `gh-pages` at
-[jeremyg484.com/presos](http://jeremyg484.com/presos).
+[jeremyg484.github.io/presos](http://jeremyg484.github.io/presos).
