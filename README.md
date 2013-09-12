@@ -8,10 +8,10 @@ they are provided as submodules.
 ## Github Co-ordinates
 
 The slides sources are all in github at
-[https://github.com/dsyer/presos](https://github.com/dsyer/presos). Clone
+[https://github.com/jeremyg484/presos](https://github.com/jeremyg484/presos). Clone
 them (read only) like this:
 
-    $ git clone https://github.com/dsyer/presos
+    $ git clone https://github.com/jeremyg484/presos
 
 ## Building the Site
 
@@ -28,4 +28,4 @@ rebuilds each deck as you reload it.
 ## Static Website
 
 The decks are all in `gh-pages` at
-[dsyer.com/presos](http://dsyer.com/presos).
+[jeremyg484.com/presos](http://jeremyg484.com/presos).
